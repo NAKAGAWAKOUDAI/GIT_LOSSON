@@ -4,3 +4,4 @@
 
 - src/
     - First.java    >>> 初めてのJava
+    - Second.java   >>> おやすみJava
